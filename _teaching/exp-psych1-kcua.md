@@ -18,12 +18,12 @@ location: "Kyoto, Japan"
 ## 第1回 4/16（木）9:00-, オンライン＆オンデマンド授業・課題提出
 上記時刻よりオンライン会議システム・ZOOMを使用したオンライン授業を行います。そのビデオ録画を当日中にダウンロードできるようにします。オンライン授業に参加されてもよいですし、後日、ビデオによるオンデマンド学修でもよいです。
 ### オンライン授業
-URL:
-ID:
+#### URL:
+#### ID:
 
 以下の流れになります。
 1. Zoom をインストールします（[詳細](https://utelecon.github.io/zoom/install
-)。
+)）。
 2. 会議室の情報（URLやID）を本サイトより得ます。
 3. 会議室に入ります（[詳細](https://utelecon.github.io/zoom/join)）。
 4. 授業に受けます（[ZOOMの使い方](https://utelecon.github.io/zoom/how_to_use)）。
