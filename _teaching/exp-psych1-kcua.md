@@ -25,7 +25,7 @@ location: "Kyoto, Japan"
 1. Zoom をインストールします（[詳細](https://utelecon.github.io/zoom/install
 )）。
 2. 会議室の情報（URLやID）を本サイトより得ます。
-3. 会議室に入ります（[詳細](https://utelecon.github.io/zoom/join)）。
+3. 会議室に入ります（[詳細](https://utelecon.github.io/zoom/join)）。名前入力時に__氏名をフルネーム__で入力してください。
 4. 授業に受けます（[ZOOMの使い方](https://utelecon.github.io/zoom/how_to_use)）。
 
 ### オンデマンド授業
