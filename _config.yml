@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ja-JP"
 title                    : "Hiroki Yamamoto, Ph.D."
 title_separator          : "-"
-name                     : &name "Hiroki Yamamoto"
+name                     : &name "山本　洋紀 (Hiroki Yamamoto)"
 description              : &description "Assistant professor at Kyoto University"
 url                      : https://yamhiroki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
