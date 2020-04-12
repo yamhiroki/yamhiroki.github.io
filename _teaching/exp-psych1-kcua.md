@@ -26,7 +26,7 @@ ID: 641-659-406
 )）。
 2. 会議室の情報（上記URL, ID）を本サイトより得ます。
 3. 会議室に入ります（[詳細](https://utelecon.github.io/zoom/join)）。名前入力時に**氏名をフルネーム**で入力してください。ミーティングパスワード（シラバス参照）が必要です。
-4. 授業に受けます（[ZOOMの使い方](https://utelecon.github.io/zoom/how_to_use)）。
+4. 授業を受けます（[ZOOMの使い方](https://utelecon.github.io/zoom/how_to_use)）。
 
 ### オンデマンド授業
 授業後、当日中にダウンロード先を本サイトに記載しますので、ダウンロードして視聴してください。
