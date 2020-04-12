@@ -1,7 +1,7 @@
 ---
 title: "実験心理学1（京都市立芸術大学）"
 collection: teaching
-type: "Class"
+type: "Lecture"
 permalink: /teaching/ExpPsych1-kcua
 venue: "京都市立芸術大学, 芸術"
 date: 2020-04-01
