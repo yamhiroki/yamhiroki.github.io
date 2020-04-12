@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "Hiroki Yamamoto, Ph.D."
+title                    : "山本　洋紀 Hiroki Yamamoto, Ph.D."
 title_separator          : "-"
 name                     : &name "山本　洋紀 (Hiroki Yamamoto)"
 description              : &description "Assistant professor at Kyoto University"
