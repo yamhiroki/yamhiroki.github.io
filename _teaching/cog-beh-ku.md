@@ -1,9 +1,9 @@
 ---
-title: "認知行動科学実験1（京都大学：認知科学のためのプログラミング）"
+title: "認知行動科学実験1:認知科学のためのプログラミング"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/cog-beh-ku
-venue: "京都大学, 総合人間"
+venue: "京都大学, 総人"
 date: 2020-06-06
 location: "Kyoto, Japan"
 ---
