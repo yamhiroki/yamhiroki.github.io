@@ -26,7 +26,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 [Googleフォーム](https://forms.gle/2JjKEqGEutt1NhTK7)で受け付けます。大学で付与されたメールアドレスでサインインしてください。
 
 # 講義
-## 第1回 6/10（木）
+## 第1回 6/10（水）
 - 認知科学実験の作り方  
 デモを通じてお手本研究の刺激呈示の流れを把握します。保存された実験結果のファイルを見ながら、刺激呈示と結果解析のプログラミングに何が必要か考えます。
 - MATLAB基礎1  
