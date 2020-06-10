@@ -11,11 +11,13 @@ location: "Kyoto, Japan"
 認知行動科学実験1(京大）に関する情報を提供します。
 
 # お知らせ
+## 6/10/2020
+デモ動画(one-back task)を追加しました。
+
 ## 6/6/2020
 サイトを公開しました。今後、授業の進捗に合わせて更新していきます。  
 URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.io/teaching/cog-beh-ku)
-## 6/10/2020
-デモ動画(one-back task)を追加しました。
+
 
 # 授業内容
 認知科学実験を行うためのMATLABプログラミングを学びます。そのために、下記の教科書で基本を学びつつ、実際の認知科学実験のソースコードを解読します。
