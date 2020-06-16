@@ -12,8 +12,7 @@ location: "Kyoto, Japan"
 
 # お知らせ
 ## 6/16/2020
-- 明日、第2回も予定通り行います。  
-- ソースコードのサイトを変えて、ダウンロードしやすくしました。
+- 明日、第2回も予定通り行います。
 - 第2回の授業内容を追記しました。
 - 標準的なエディターソフト、[VisualStudio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)をインストールしておいてください。プログラムの編集や実験結果など各種ファイルの閲覧、確認に有用です。同種のソフト、[Atom](https://atom.io/)も便利です。使いやすさ重視ならAtomの方が良いかもしれません。日本語用に、[サクラエディタ](https://sakura-editor.github.io/)もインストールしておくとよいです。
 
