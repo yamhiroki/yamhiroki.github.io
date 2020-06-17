@@ -45,7 +45,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 教科書にそって、実際に手を動かしで、プログラミングします。
 
 ## 第2回 6/17（水)
-- MATLAB基礎2
+- MATLAB基礎2 レッスン1, 2, 3
  - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
 - お手本研究ソースコード解読: artmuse_nBack_analysisCode.m
  - line 57-73, 127-142
