@@ -49,7 +49,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)　　
 - お手本研究ソースコード解読  artmuse_nBack_analysisCode.m
  - line 44 - 73
-- 課題　教科書 練習課題BとC、WEBフォームより提出
+- 課題　教科書 練習課題B,C,D, WEBフォームより提出(PDF or text)
 
 ## 第2回 6/17（水)
 - MATLAB基礎2 レッスン1, 2, 3
