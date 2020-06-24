@@ -45,7 +45,8 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 ## 第3回 6/23８(水)
 - 前回の課題講評
 - MATLAB基礎3 レッスン4, 5,6, 7  　　
- - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN　　
+ - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
+ - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)　　
 - お手本研究ソースコード解読  artmuse_nBack_analysisCode.m
  - line 44 - 73
 - 課題　教科書 練習課題BとC、WEBフォームより提出
