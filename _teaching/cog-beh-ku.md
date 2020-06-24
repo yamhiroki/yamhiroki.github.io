@@ -42,7 +42,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeqwO_otAKkcL9yEviFtXxJsfaT7Sn_2g7JNGF6ZmTuznqvrA/viewform)で受け付けます。大学で付与されたメールアドレスでサインインしてください。
 
 # 講義
-## 第3回 6/23８(水)
+## 第3回 6/24　(水)
 - 前回の課題講評
 - MATLAB基礎3 レッスン4, 5,6, 7  　　
  - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
