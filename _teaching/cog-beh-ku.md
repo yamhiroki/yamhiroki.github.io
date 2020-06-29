@@ -53,18 +53,18 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - MATLABの基礎4 レッスン8, 9, 10  
   - グラフ, スクリプト, 条件, ループ, エラー検出  
 - お手本研究ソースコード解読 artmuse_nBack_sampleCode.m  
-  - 実験のメインループ：2重（ブロック, 試行）ループ line 348 - 629   
-```matlab
-% start block loop
-for block = 1:2
-    :
-    % start trial loop
-    for trial = 1:numTrials
-     :
-    end % end trial loop
-    :
- end % end block loop
- ```
+  - 実験のメインループ：2重（ブロック, 試行）ループ line 348 - 629  
+    ````matlab
+    %start block loop
+    for block = 1:2
+        :
+        % start trial loop
+        for trial = 1:numTrials
+        :
+        end % end trial loop
+        :
+    end % end block loop
+    ````
 - 課題　教科書　練習問題E, F　WEBフォームより提出(PDF or text)
 
 ## 第3回 6/24　(水)
