@@ -65,7 +65,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
         :
     end % end block loop
     ````
-- 課題　教科書　練習問題E, F　WEBフォームより提出(PDF or text)
+- 課題　教科書　練習問題E　WEBフォームより提出(PDF or text)
 
 ## 第3回 6/24　(水)
 - 前回の課題講評
