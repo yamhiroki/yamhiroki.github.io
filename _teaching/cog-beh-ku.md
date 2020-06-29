@@ -44,7 +44,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 [デモ動画](https://youtu.be/rXGSDsaLuQ8)
 
 # 課題提出・質問
-[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeqwO_otAKkcL9yEviFtXxJsfaT7Sn_2g7JNGF6ZmTuznqvrA/viewform)で受け付けます。大学で付与されたメールアドレスでサインインしてください。
+[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeqwO_otAKkcL9yEviFtXxJsfaT7Sn_2g7JNGF6ZmTuznqvrA/viewform)で受け付けます。
 
 # 講義
 ## 第4回 7/1（水）  
