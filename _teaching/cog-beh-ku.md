@@ -11,6 +11,11 @@ location: "Kyoto, Japan"
 認知行動科学実験1(京大）に関する情報を提供します。
 
 # お知らせ
+## 6/29/2020
+- 明後日、第4回も予定通り行います。
+- 第4回の授業内容を追記しました。
+- 練習問題A,B,Cの解答例をアップしました。  
+
 ## 6/23/2020
 - 明日、第3回も予定通り行います。
 - 第3回の授業内容を追記しました。  
@@ -42,26 +47,46 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeqwO_otAKkcL9yEviFtXxJsfaT7Sn_2g7JNGF6ZmTuznqvrA/viewform)で受け付けます。大学で付与されたメールアドレスでサインインしてください。
 
 # 講義
+## 第4回 7/1（水）  
+- 前回の課題講評
+- 前回の復習 練習問題D
+- MATLABの基礎4 レッスン8, 9, 10  
+  - グラフ, スクリプト, 条件, ループ, エラー検出  
+- お手本研究ソースコード解読 artmuse_nBack_sampleCode.m  
+  - 実験のメインループ：2重（ブロック, 試行）ループ line 348 - 629   
+```matlab
+% start block loop
+for block = 1:2
+    :
+    % start trial loop
+    for trial = 1:numTrials
+     :
+    end % end trial loop
+    :
+ end % end block loop
+ ```
+- 課題　教科書　練習問題E, F　WEBフォームより提出(PDF or text)
+
 ## 第3回 6/24　(水)
 - 前回の課題講評
 - MATLAB基礎3 レッスン4, 5,6, 7  　　
- - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
- - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)　　
+  - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
+  - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)　　
 - お手本研究ソースコード解読  artmuse_nBack_analysisCode.m
- - line 44 - 73
+  - line 44 - 73
 - 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)  
-　- 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0), [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0)  
+  - 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0), [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0)  
 
 ## 第2回 6/17（水)
 - MATLAB基礎2 レッスン1, 2, 3
- - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
+  - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
 - お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
- - line 57-73, 127-142
- - line 153, How to shuffle
+  - line 57-73, 127-142
+  - line 153, How to shuffle
 
 - 課題
 教科書の練習問題Aを解いてもらって、上記フォームから提出してもらいます。
- - 解答例 [練習A](https://www.dropbox.com/s/lbbmbwumkqf56he/ex_a.m?dl=0)
+  - 解答例 [練習A](https://www.dropbox.com/s/lbbmbwumkqf56he/ex_a.m?dl=0)
 
 
 ## 第1回 6/10（水）
