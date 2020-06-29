@@ -51,7 +51,8 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - 前回の課題講評
 - 前回の復習 練習問題D
 - MATLABの基礎4 レッスン8, 9, 10  
-  - グラフ, スクリプト, 条件, ループ, エラー検出  
+  - グラフ, スクリプト, 条件, ループ, エラー検出
+  - 参考　Rでグラフ [ggplot2](https://ggplot2-book.org/)  
 - お手本研究ソースコード解読 artmuse_nBack_sampleCode.m  
   - 実験のメインループ：2重（ブロック, 試行）ループ line 348 - 629  
     ````matlab
