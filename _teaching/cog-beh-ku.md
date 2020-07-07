@@ -11,6 +11,11 @@ location: "Kyoto, Japan"
 認知行動科学実験1(京大）に関する情報を提供します。
 
 # お知らせ
+## 7/7/2020
+- 明日、第5回も予定通り行います。
+- 第5回の授業内容を追記しました。
+- 練習問題D,Eの解答例をアップしました。
+
 ## 6/29/2020
 - 明後日、第4回も予定通り行います。
 - 第4回の授業内容を追記しました。
@@ -47,12 +52,14 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeqwO_otAKkcL9yEviFtXxJsfaT7Sn_2g7JNGF6ZmTuznqvrA/viewform)で受け付けます。
 
 # 講義
-## 第4回 7/1（水）  
+## 第7回 7/22（水）
+
+## 第6回 7/15（水）
+
+## 第5回 7/8（水）
 - 前回の課題講評
-- 前回の復習 練習問題D
-- MATLABの基礎4 レッスン8, 9, 10  
-  - グラフ, スクリプト, 条件, ループ, エラー検出
-  - 参考　Rでグラフ [ggplot2](https://ggplot2-book.org/)  
+- MATLABの基礎5 レッスン9, 10, 11
+　- スクリプト, 条件, ループ, エラー検出
 - お手本研究ソースコード解読 artmuse_nBack_sampleCode.m  
   - 実験のメインループ：2重（ブロック, 試行）ループ line 348 - 629  
     ````matlab
@@ -65,9 +72,19 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
         end % end trial loop
         :
     end % end block loop
-    ````
+    ````   
+- 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)
+
+## 第4回 7/1（水）
+- 前回の課題講評
+- 前回の復習 練習問題D
+- MATLABの基礎4 レッスン8  
+　- グラフ, plot
+  - 参考　Rでグラフ [ggplot2](https://ggplot2-book.org/)  
+
 - 課題　教科書　練習問題E　WEBフォームより提出(PDF or text)  
  - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
+ - 解答例 [練習D](https://www.dropbox.com/s/s18j2zeeg2l95zb/ex_d.m?dl=0) [練習E](https://www.dropbox.com/s/l5zyba6m95kela8/ex_e.m?dl=0)
 
 ## 第3回 6/24　(水)
 - 前回の課題講評
