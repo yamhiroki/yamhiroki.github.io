@@ -11,6 +11,11 @@ location: "Kyoto, Japan"
 認知行動科学実験1(京大）に関する情報を提供します。
 
 # お知らせ
+## 7/13/2020
+- 明後日、第6回も予定通り行います。
+- 第6回の授業内容を追記しました。
+- 練習問題Fの解答例をアップしました。未提出の人は、解答例を参考にしながらコーディング＆動作確認して提出してください。
+
 ## 7/7/2020
 - 明日、第5回も予定通り行います。
 - 第5回の授業内容を追記しました。
@@ -55,6 +60,12 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 ## 第7回 7/22（水）
 
 ## 第6回 7/15（水）
+- 前回の課題講評　　
+- MATLABの基礎6 レッスン12, 14  
+  - データ構造: セル配列, 構造体配列  
+  - データ入力: fopen(), fgets(), textscan(), csv file
+- お手本研究ソースコード解読 artmuse_nBack_sampleCode.m
+ - 実験結果データ入力部 line 26 - 32.
 
 ## 第5回 7/8（水）
 - 前回の課題講評
@@ -73,7 +84,9 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
         :
     end % end block loop
     ````   
-- 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)
+- 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)  
+ - 解答例 [練習F](https://www.dropbox.com/s/giqtlp76dr7459z/ex_f.m?dl=0), [練習Cプロット付加](https://www.dropbox.com/s/tbjdf3g0geork43/ex_c2.m?dl=0), [標準誤差の関数](https://www.dropbox.com/s/v92j32hk78y3wjj/std_error.m?dl=0)
+
 
 ## 第4回 7/1（水）
 - 前回の課題講評
