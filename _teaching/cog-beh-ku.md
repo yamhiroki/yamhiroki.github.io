@@ -64,7 +64,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - MATLABの基礎6 レッスン12, 14  
   - データ構造: セル配列, 構造体配列  
   - データ入力: fopen(), fgets(), textscan(), csv file
-- お手本研究ソースコード解読 artmuse_nBack_sampleCode.m
+- お手本研究ソースコード解読 artmuse_nBack_analysisCode.m
  - 実験結果データ入力部 line 26 - 32.
 
 ## 第5回 7/8（水）
