@@ -11,6 +11,11 @@ location: "Kyoto, Japan"
 認知行動科学実験1(京大）に関する情報を提供します。
 
 # お知らせ
+## 7/20/2020
+- 明後日、第7回も予定通り行います。
+- 第7回の授業内容を追記しました。
+- 練習問題Gの解答例をアップしました。未提出の人は、解答例を参考にしながらコーディング＆動作確認して提出してください。
+
 ## 7/13/2020
 - 明後日、第6回も予定通り行います。
 - 第6回の授業内容を追記しました。
@@ -58,6 +63,17 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 
 # 講義
 ## 第7回 7/22（水）
+- 前回の課題講評
+- MATLABの基礎7 レッスン15  
+　- データ入出力  
+  - fopen(), fclose(), fprintf(), fscanf()
+  - table, tableread(), tablewrite()
+- 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
+- R言語による探索的データ解析　入門  
+ - RStudio, tidy data, tidyverse
+ - read_csv(), write_cs(), ggplot()
+ - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
+   [English version, free](https://r4ds.had.co.nz/)
 
 ## 第6回 7/15（水）
 - 前回の課題講評　　
