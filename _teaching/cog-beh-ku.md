@@ -70,7 +70,8 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - table, tableread(), tablewrite()
 - 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
 - R言語による探索的データ解析　入門  
- - [RStudio cloud](https://rstudio.cloud/)を使いますので、アカウントを作っておいてください。  
+ - [RStudio cloud](https://rstudio.cloud/)を使いますので、アカウントを作っておいてください。
+ - [課題HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
  - tidy data, tidyverse
  - read_csv(), write_cs(), ggplot()
  - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
