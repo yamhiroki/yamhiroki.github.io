@@ -11,6 +11,10 @@ location: "Kyoto, Japan"
 認知行動科学実験1(京大）に関する情報を提供します。
 
 # お知らせ
+## 7/22/2020　　
+- 練習Hの解答例を載せました。授業と異なる方法です。こちらも参考にしてください。　　
+- 課題提出は今月中にお願いします。
+
 ## 7/20/2020
 - 明後日、第7回も予定通り行います。
 - 第7回の授業内容を追記しました。
@@ -69,9 +73,10 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
     - fopen(), fclose(), fprintf(), fscanf()
     - table, tableread(), tablewrite()
 - 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
+  - 解答例　[練習H matlab script](https://www.dropbox.com/s/dx8mdk10v931mf8/ExH.m?dl=0)
 - R言語による探索的データ解析　入門  
   - [RStudio cloud](https://rstudio.cloud/)を使いますので、アカウントを作っておいてください。
-  - [課題HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
+  - [練習HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
   - tidy data, tidyverse
   - read_csv(), write_cs(), ggplot()
   - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
@@ -79,7 +84,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - 課題
   - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
   - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
-  - 上記課題HのRスクリプトを実行（[動画](https://www.dropbox.com/s/wezqu6ato0myqjh/rstudio.mp4?dl=0)）して、実行結果(pdfファイル)をWEBフォームから提出してください。
+  - 上記課題HのRスクリプトを実行（[動画](https://www.dropbox.com/s/wezqu6ato0myqjh/rstudio.mp4?dl=0)）して、実行結果(htmlファイル)をWEBフォームから提出してください。
 
 ## 第6回 7/15（水）
 - 前回の課題講評　　
