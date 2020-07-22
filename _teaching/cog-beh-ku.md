@@ -76,6 +76,10 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - read_csv(), write_cs(), ggplot()
  - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
    [English version, free](https://r4ds.had.co.nz/)
+- 課題
+ - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
+ - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
+ - 上記課題HのRスクリプトを実行（[動画](https://www.dropbox.com/s/wezqu6ato0myqjh/rstudio.mp4?dl=0)）して、実行結果(pdfファイル)をWEBフォームから提出してください。
 
 ## 第6回 7/15（水）
 - 前回の課題講評　　
