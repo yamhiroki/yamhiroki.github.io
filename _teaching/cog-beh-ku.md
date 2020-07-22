@@ -65,21 +65,21 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 ## 第7回 7/22（水）
 - 前回の課題講評
 - MATLABの基礎7 レッスン15  
-　- データ入出力  
-  - fopen(), fclose(), fprintf(), fscanf()
-  - table, tableread(), tablewrite()
+  - データ入出力  
+    - fopen(), fclose(), fprintf(), fscanf()
+    - table, tableread(), tablewrite()
 - 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
 - R言語による探索的データ解析　入門  
- - [RStudio cloud](https://rstudio.cloud/)を使いますので、アカウントを作っておいてください。
- - [課題HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
- - tidy data, tidyverse
- - read_csv(), write_cs(), ggplot()
- - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
+  - [RStudio cloud](https://rstudio.cloud/)を使いますので、アカウントを作っておいてください。
+  - [課題HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
+  - tidy data, tidyverse
+  - read_csv(), write_cs(), ggplot()
+  - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
    [English version, free](https://r4ds.had.co.nz/)
 - 課題
- - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
- - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
- - 上記課題HのRスクリプトを実行（[動画](https://www.dropbox.com/s/wezqu6ato0myqjh/rstudio.mp4?dl=0)）して、実行結果(pdfファイル)をWEBフォームから提出してください。
+  - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
+  - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
+  - 上記課題HのRスクリプトを実行（[動画](https://www.dropbox.com/s/wezqu6ato0myqjh/rstudio.mp4?dl=0)）して、実行結果(pdfファイル)をWEBフォームから提出してください。
 
 ## 第6回 7/15（水）
 - 前回の課題講評　　
@@ -87,9 +87,9 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - データ構造: セル配列, 構造体配列  
   - データ入力: fopen(), fgets(), textscan(), csv file
 - お手本研究ソースコード解読 artmuse_nBack_analysisCode.m
- - 実験結果データ入力部 line 26 - 32.
+  - 実験結果データ入力部 line 26 - 32.
 - 課題　教科書　練習問題G 　WEBフォームより提出(PDF or text)  
-　-  解答例 [練習G](https://www.dropbox.com/s/gecd46qgbbqdfpo/ex_g.m?dl=0)
+  - 解答例 [練習G](https://www.dropbox.com/s/gecd46qgbbqdfpo/ex_g.m?dl=0)
 
 ## 第5回 7/8（水）
 - 前回の課題講評
@@ -109,19 +109,19 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
     end % end block loop
     ````   
 - 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)  
- - 解答例 [練習F](https://www.dropbox.com/s/giqtlp76dr7459z/ex_f.m?dl=0), [練習Cプロット付加](https://www.dropbox.com/s/tbjdf3g0geork43/ex_c2.m?dl=0), [標準誤差の関数](https://www.dropbox.com/s/v92j32hk78y3wjj/std_error.m?dl=0)
+  - 解答例 [練習F](https://www.dropbox.com/s/giqtlp76dr7459z/ex_f.m?dl=0), [練習Cプロット付加](https://www.dropbox.com/s/tbjdf3g0geork43/ex_c2.m?dl=0), [標準誤差の関数](https://www.dropbox.com/s/v92j32hk78y3wjj/std_error.m?dl=0)
 
 
 ## 第4回 7/1（水）
 - 前回の課題講評
 - 前回の復習 練習問題D
 - MATLABの基礎4 レッスン8  
-　- グラフ, plot
+  - グラフ, plot
   - 参考　Rでグラフ [ggplot2](https://ggplot2-book.org/)  
 
 - 課題　教科書　練習問題E　WEBフォームより提出(PDF or text)  
- - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
- - 解答例 [練習D](https://www.dropbox.com/s/s18j2zeeg2l95zb/ex_d.m?dl=0) [練習E](https://www.dropbox.com/s/l5zyba6m95kela8/ex_e.m?dl=0)
+  - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
+  - 解答例 [練習D](https://www.dropbox.com/s/s18j2zeeg2l95zb/ex_d.m?dl=0) [練習E](https://www.dropbox.com/s/l5zyba6m95kela8/ex_e.m?dl=0)
 
 ## 第3回 6/24　(水)
 - 前回の課題講評
