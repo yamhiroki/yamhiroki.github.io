@@ -31,7 +31,8 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - R言語がほんのさわりだけになってしまう可能性が高いです。心理統計も含めて自学自習に適したサイトを紹介しておきます。
  - [R for Data Science](https://r4ds.had.co.nz/)
  - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html#why-does-this-book-exist)  
- - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)  
+ - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
+    - [course book](https://psych252.github.io/psych252book/)  
 
 ## 第0回 ~6/9授業日まで
 ### PC環境の整備等
