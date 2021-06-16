@@ -34,15 +34,22 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)  
 
-## 第0回 ~6/9授業日まで
-### PC環境の整備等
-- [GNU Octave](https://www.gnu.org/software/octave/index)
-最新のバージョン(6.2.0)を[インストール](https://www.gnu.org/software/octave/download)しておいて下さい。
-- お好みのエディター（[VS Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/), [Atom](https://atom.io/), [サクラエディタ](https://sakura-editor.github.io/)等）も少なくとも一つインストールしておいてください。
-- [Octave Online](https://octave-online.net/)に一度アクセスして、1+1が計算できるか確認しておいてください。
+## 第2回 6/16（水)
+- MATLAB基礎2 レッスン1, 2, 3
+  - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
+- お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
+  - line 57-73, 127-142
+  - line 153, How to shuffle
 
 ## 第1回 6/9（水）
 - 認知科学実験の作り方  
 デモを通じてお手本研究の刺激呈示の流れを把握します。保存された実験結果のファイルを見ながら、刺激呈示と結果解析のプログラミングに何が必要か考えます。
 - MATLAB基礎1  
 教科書にそって、実際に手を動かしてプログラミングします。
+
+## 第0回 ~6/9授業日まで
+### PC環境の整備等
+- [GNU Octave](https://www.gnu.org/software/octave/index)
+最新のバージョン(6.2.0)を[インストール](https://www.gnu.org/software/octave/download)しておいて下さい。
+- お好みのエディター（[VS Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/), [Atom](https://atom.io/), [サクラエディタ](https://sakura-editor.github.io/)等）も少なくとも一つインストールしておいてください。
+- [Octave Online](https://octave-online.net/)に一度アクセスして、1+1が計算できるか確認しておいてください。
