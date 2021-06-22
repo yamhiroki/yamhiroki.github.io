@@ -45,6 +45,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 ## 第2回 6/16（水)
 - MATLAB基礎2 レッスン1, 2, 3
   - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
+  - 解答例 [練習A](https://www.dropbox.com/s/lbbmbwumkqf56he/ex_a.m?dl=0)
 - お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
   - line 57-73, 127-142
   - line 153, How to shuffle
