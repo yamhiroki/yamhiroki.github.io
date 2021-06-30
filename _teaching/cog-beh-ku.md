@@ -39,6 +39,8 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - 前回の復習 練習問題D
 - MATLABの基礎4 レッスン8  
   - グラフ, plot
+  - お手本研究ソースコード解読  artmuse_nBack_analysisCode.m, line 43-73
+    - accuracy, RT
   - 参考　Rでグラフ [ggplot2](https://ggplot2-book.org/)  
   - 課題　教科書　練習問題E　WEBフォームより提出(PDF or text)  
     - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
@@ -48,7 +50,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - MATLAB基礎3 レッスン4, 5, 6, 7  　　
   - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
   - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)　　
-  - お手本研究ソースコード解読  artmuse_nBack_analysisCode.m
+  - お手本研究ソースコード解読  artmuse_nBack_sampleCode.m
       - 第2回部分, line 44 - 73
 - 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)  
   - 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0), [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0)  
