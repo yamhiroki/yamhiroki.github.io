@@ -34,7 +34,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
-## 第5回 7/7（水）
+## 第5回 7/7（水）対面授業
 - 前回の課題講評
 - MATLABの基礎5 レッスン9, 10, 11
 　- スクリプト, 条件, ループ, エラー検出
