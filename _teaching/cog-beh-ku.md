@@ -32,8 +32,26 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [R for Data Science](https://r4ds.had.co.nz/)
  - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html#why-does-this-book-exist)  
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
-    - [course book](https://psych252.github.io/psych252book/)  
+    - [course book](https://psych252.github.io/psych252book/)
 
+## 第5回 7/7（水）
+- 前回の課題講評
+- MATLABの基礎5 レッスン9, 10, 11
+　- スクリプト, 条件, ループ, エラー検出
+- お手本研究ソースコード解読 artmuse_nBack_sampleCode.m  
+  - 実験のメインループ：2重（ブロック, 試行）ループ line 348 - 629  
+    ````matlab
+    %start block loop
+    for block = 1:2
+        :
+        % start trial loop
+        for trial = 1:numTrials
+        :
+        end % end trial loop
+        :
+    end % end block loop
+    ````   
+- 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)  
 ## 第4回 6/30（水）対面授業
 - 前回の課題講評
 - 前回の復習 練習問題D
@@ -44,6 +62,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - 参考　Rでグラフ [ggplot2](https://ggplot2-book.org/)  
   - 課題　教科書　練習問題E　WEBフォームより提出(PDF or text)  
     - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
+    - 解答例 [練習D](https://www.dropbox.com/s/s18j2zeeg2l95zb/ex_d.m?dl=0) [練習E](https://www.dropbox.com/s/l5zyba6m95kela8/ex_e.m?dl=0)
 
 ## 第3回 6/23　(水)
 - 前回の課題講評
