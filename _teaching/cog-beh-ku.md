@@ -34,6 +34,18 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第6回 7/14（水）対面授業
+- 前回の課題講評　　
+- MATLABの基礎6 レッスン12, 14  
+  - データ構造: セル配列, 構造体配列  
+  - データ入力: fopen(), fgets(), textscan(), csv file
+- お手本研究ソースコード解読 artmuse_nBack_analysisCode.m
+  - 実験結果データ入力部 line 26 - 32.
+- 課題　
+ - 教科書　練習問題G 　WEBフォームより提出(PDF or text)
+ - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
+ - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
+
 ## 第5回 7/7（水）対面授業
 - 前回の課題講評
 - MATLABの基礎5 レッスン9, 10, 11
@@ -52,7 +64,8 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
     end % end block loop
     ````   
 - 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)
-  
+  - 解答例 [練習F](https://www.dropbox.com/s/giqtlp76dr7459z/ex_f.m?dl=0), [標準誤差の関数](https://www.dropbox.com/s/v92j32hk78y3wjj/std_error.m?dl=0)
+
 ## 第4回 6/30（水）対面授業
 - 前回の課題講評
 - 前回の復習 練習問題D
