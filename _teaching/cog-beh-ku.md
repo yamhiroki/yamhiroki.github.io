@@ -42,9 +42,9 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - お手本研究ソースコード解読 artmuse_nBack_analysisCode.m
   - 実験結果データ入力部 line 26 - 32.
 - 課題　
- - 教科書　練習問題G 　WEBフォームより提出(PDF or text)
- - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
- - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
+  - 教科書　練習問題G 　WEBフォームより提出(PDF or text)
+  - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
+  - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
 
 ## 第5回 7/7（水）対面授業
 - 前回の課題講評
