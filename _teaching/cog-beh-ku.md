@@ -40,7 +40,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - データ構造: セル配列, 構造体配列  
   - データ入力: fopen(), fgets(), textscan(), csv file
 - お手本研究ソースコード解読 artmuse_nBack_analysisCode.m
-  - 実験結果データ入力部 line 26 - 32.
+  - 実験結果データ入力部 [line 26 - 32.](https://www.dropbox.com/s/yetkbx6j3q75pdl/Otehon_DataInput.png?dl=0)
 - 課題　
   - 教科書　練習問題G 　WEBフォームより提出(PDF or text)
   - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
