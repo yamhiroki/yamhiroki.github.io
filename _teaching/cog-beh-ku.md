@@ -34,6 +34,18 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第7回 7/21（水）
+- 前回の課題講評
+- 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
+  - 解答例　[練習H matlab script](https://www.dropbox.com/s/dx8mdk10v931mf8/ExH.m?dl=0)
+- R言語による探索的データ解析　入門  
+  - [RStudio cloud](https://rstudio.cloud/)を使いますので、アカウントを作っておいてください。
+  - [練習HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
+  - tidy data, tidyverse
+  - read_csv(), write_cs(), ggplot()
+  - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
+   [English version, free](https://r4ds.had.co.nz/)
+
 ## 第6回 7/14（水）対面授業
 - 前回の課題講評　　
 - MATLABの基礎6 レッスン12, 14  
@@ -43,6 +55,8 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - 実験結果データ入力部 [line 26 - 32.](https://www.dropbox.com/s/yetkbx6j3q75pdl/Otehon_DataInput.png?dl=0)
 - 課題　
   - 教科書　練習問題G 　WEBフォームより提出(PDF or text)
+  - 課題　教科書　練習問題G 　WEBフォームより提出(PDF or text)  
+    - 解答例 [練習G](https://www.dropbox.com/s/gecd46qgbbqdfpo/ex_g.m?dl=0)
   - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
   - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
 
