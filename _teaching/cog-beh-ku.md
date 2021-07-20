@@ -38,8 +38,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - 前回の課題講評
 - 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
   - 解答例　[練習H matlab script](https://www.dropbox.com/s/dx8mdk10v931mf8/ExH.m?dl=0)
-- R言語による探索的データ解析　入門  
-  - [RStudio cloud](https://rstudio.cloud/)を使いますので、アカウントを作っておいてください。
+- R言語による探索的データ解析　入門 
   - [練習HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
   - tidy data, tidyverse
   - read_csv(), write_cs(), ggplot()
