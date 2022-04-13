@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/cog-beh-ku
 venue: "京都大学, 総人"
-date: 2021-06-03
+date: 2022-04-13
 location: "Kyoto, Japan"
 ---
 
@@ -37,7 +37,6 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 ## 第7回
 - 前回の課題講評
 - 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
-  - 解答例　[練習H matlab script](https://www.dropbox.com/s/dx8mdk10v931mf8/ExH.m?dl=0)
 - R言語による探索的データ解析　入門 
   - [練習HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
   - tidy data, tidyverse
@@ -54,8 +53,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - 実験結果データ入力部 [line 26 - 32.](https://www.dropbox.com/s/yetkbx6j3q75pdl/Otehon_DataInput.png?dl=0)
 - 課題　
   - 教科書　練習問題G 　WEBフォームより提出(PDF or text)
-  - 課題　教科書　練習問題G 　WEBフォームより提出(PDF or text)  
-    - 解答例 [練習G](https://www.dropbox.com/s/gecd46qgbbqdfpo/ex_g.m?dl=0)
+  - 課題　教科書　練習問題G 　WEBフォームより提出(PDF or text)
   - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
   - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
 
@@ -77,7 +75,6 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
     end % end block loop
     ````   
 - 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)
-  - 解答例 [練習F](https://www.dropbox.com/s/giqtlp76dr7459z/ex_f.m?dl=0), [標準誤差の関数](https://www.dropbox.com/s/v92j32hk78y3wjj/std_error.m?dl=0)
 
 ## 第4回
 - 前回の課題講評
@@ -89,7 +86,6 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - 参考　Rでグラフ [ggplot2](https://ggplot2-book.org/)  
   - 課題　教科書　練習問題E　WEBフォームより提出(PDF or text)  
     - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
-    - 解答例 [練習D](https://www.dropbox.com/s/s18j2zeeg2l95zb/ex_d.m?dl=0) [練習E](https://www.dropbox.com/s/l5zyba6m95kela8/ex_e.m?dl=0)
 
 ## 第3回
 - 前回の課題講評
@@ -98,13 +94,11 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)　　
   - お手本研究ソースコード解読  artmuse_nBack_sampleCode.m
       - 第2回部分, line 44 - 73
-- 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)  
-  - 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0), [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0)  
+- 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)
 
 ## 第2回
 - MATLAB基礎2 レッスン1, 2, 3
   - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
-  - 解答例 [練習A](https://www.dropbox.com/s/lbbmbwumkqf56he/ex_a.m?dl=0)
 - お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
   - line 57-73, 127-142
   - line 153, How to shuffle
