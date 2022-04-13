@@ -34,7 +34,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
-## 第7回 7/21（水）
+## 第7回
 - 前回の課題講評
 - 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
   - 解答例　[練習H matlab script](https://www.dropbox.com/s/dx8mdk10v931mf8/ExH.m?dl=0)
@@ -45,7 +45,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
    [English version, free](https://r4ds.had.co.nz/)
 
-## 第6回 7/14（水）対面授業
+## 第6回
 - 前回の課題講評　　
 - MATLABの基礎6 レッスン12, 14  
   - データ構造: セル配列, 構造体配列  
@@ -59,7 +59,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
   - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
 
-## 第5回 7/7（水）対面授業
+## 第5回
 - 前回の課題講評
 - MATLABの基礎5 レッスン9, 10, 11
 　- スクリプト, 条件, ループ, エラー検出
@@ -79,7 +79,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)
   - 解答例 [練習F](https://www.dropbox.com/s/giqtlp76dr7459z/ex_f.m?dl=0), [標準誤差の関数](https://www.dropbox.com/s/v92j32hk78y3wjj/std_error.m?dl=0)
 
-## 第4回 6/30（水）対面授業
+## 第4回
 - 前回の課題講評
 - 前回の復習 練習問題D
 - MATLABの基礎4 レッスン8  
@@ -91,7 +91,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
     - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
     - 解答例 [練習D](https://www.dropbox.com/s/s18j2zeeg2l95zb/ex_d.m?dl=0) [練習E](https://www.dropbox.com/s/l5zyba6m95kela8/ex_e.m?dl=0)
 
-## 第3回 6/23　(水)
+## 第3回
 - 前回の課題講評
 - MATLAB基礎3 レッスン4, 5, 6, 7  　　
   - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
@@ -101,7 +101,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)  
   - 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0), [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0)  
 
-## 第2回 6/16（水)
+## 第2回
 - MATLAB基礎2 レッスン1, 2, 3
   - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
   - 解答例 [練習A](https://www.dropbox.com/s/lbbmbwumkqf56he/ex_a.m?dl=0)
@@ -109,13 +109,13 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - line 57-73, 127-142
   - line 153, How to shuffle
 
-## 第1回 6/9（水）
+## 第1回
 - 認知科学実験の作り方  
 デモを通じてお手本研究の刺激呈示の流れを把握します。保存された実験結果のファイルを見ながら、刺激呈示と結果解析のプログラミングに何が必要か考えます。
 - MATLAB基礎1  
 教科書にそって、実際に手を動かしてプログラミングします。
 
-## 第0回 ~6/9授業日まで
+## 第0回 授業日まで
 ### PC環境の整備等
 - [GNU Octave](https://www.gnu.org/software/octave/index)
 最新のバージョン(6.2.0)を[インストール](https://www.gnu.org/software/octave/download)しておいて下さい。
