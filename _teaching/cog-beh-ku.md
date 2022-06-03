@@ -43,6 +43,6 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 ## 第0回 授業日まで
 ### PC環境の整備等
 - [GNU Octave](https://www.gnu.org/software/octave/index)
-最新のバージョン(6.2.0)を[インストール](https://www.gnu.org/software/octave/download)しておいて下さい。
+最新のバージョン(7.1.0)を[インストール](https://www.gnu.org/software/octave/download)しておいて下さい。
 - お好みのエディター（[VS Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/), [Atom](https://atom.io/), [サクラエディタ](https://sakura-editor.github.io/)等）も少なくとも一つインストールしておいてください。
 - [Octave Online](https://octave-online.net/)に一度アクセスして、1+1が計算できるか確認しておいてください。
