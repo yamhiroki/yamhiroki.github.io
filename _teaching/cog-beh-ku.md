@@ -11,7 +11,7 @@ location: "Kyoto, Japan"
 認知行動科学実験1(京大）に関する情報を提供します。
 
 ### お知らせ  
-#### 6/3/2021
+#### 6/3/2022
 サイトを公開しました。今後、授業の進捗に合わせて更新していきます。  
 URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.io/teaching/cog-beh-ku)
 
@@ -33,75 +33,6 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html#why-does-this-book-exist)  
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
-
-## 第7回
-- 前回の課題講評
-- 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
-- R言語による探索的データ解析　入門 
-  - [練習HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
-  - tidy data, tidyverse
-  - read_csv(), write_cs(), ggplot()
-  - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
-   [English version, free](https://r4ds.had.co.nz/)
-
-## 第6回
-- 前回の課題講評　　
-- MATLABの基礎6 レッスン12, 14  
-  - データ構造: セル配列, 構造体配列  
-  - データ入力: fopen(), fgets(), textscan(), csv file
-- お手本研究ソースコード解読 artmuse_nBack_analysisCode.m
-  - 実験結果データ入力部 [line 26 - 32.](https://www.dropbox.com/s/yetkbx6j3q75pdl/Otehon_DataInput.png?dl=0)
-- 課題　
-  - 教科書　練習問題G 　WEBフォームより提出(PDF or text)
-  - 課題　教科書　練習問題G 　WEBフォームより提出(PDF or text)
-  - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
-  - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
-
-## 第5回
-- 前回の課題講評
-- MATLABの基礎5 レッスン9, 10, 11
-　- スクリプト, 条件, ループ, エラー検出
-- お手本研究ソースコード解読 artmuse_nBack_sampleCode.m  
-  - 実験のメインループ：2重（ブロック, 試行）ループ line 348 - 629  
-    ````matlab
-    %start block loop
-    for block = 1:2
-        :
-        % start trial loop
-        for trial = 1:numTrials
-        :
-        end % end trial loop
-        :
-    end % end block loop
-    ````   
-- 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)
-
-## 第4回
-- 前回の課題講評
-- 前回の復習 練習問題D
-- MATLABの基礎4 レッスン8  
-  - グラフ, plot
-  - お手本研究ソースコード解読  artmuse_nBack_analysisCode.m, line 43-73
-    - accuracy, RT
-  - 参考　Rでグラフ [ggplot2](https://ggplot2-book.org/)  
-  - 課題　教科書　練習問題E　WEBフォームより提出(PDF or text)  
-    - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
-
-## 第3回
-- 前回の課題講評
-- MATLAB基礎3 レッスン4, 5, 6, 7  　　
-  - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
-  - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)　　
-  - お手本研究ソースコード解読  artmuse_nBack_sampleCode.m
-      - 第2回部分, line 44 - 73
-- 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)
-
-## 第2回
-- MATLAB基礎2 レッスン1, 2, 3
-  - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
-- お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
-  - line 57-73, 127-142
-  - line 153, How to shuffle
 
 ## 第1回
 - 認知科学実験の作り方  
