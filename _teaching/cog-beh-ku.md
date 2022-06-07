@@ -20,7 +20,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - 教科書　[心理のためのMATLABチュートリアル](http://www.nemotos.net/resources/matlab_for_psychologists_ja.pdf)
 - お手本  [M. Aly & Nicholas B. Turk-Browne (2016) Attention promotes episodic encoding by stabilizing hippocampal representations](https://www.pnas.org/content/113/4/E420.short)  
 実験2（Nバック課題）の実験制御（視覚刺激呈示、被験者反応取得、眼球運動・fMRI測定との同期）と被験者反応の基礎的な解析（ヒット率、フォールスアラーム率、反応時間等）を理解します。  
-[ソースコードと実行例, 論文含む](https://www.dropbox.com/s/f30dhg5yexip4h7/turk-sample-code.zip?dl=0)  
+[ソースコードと実行例, 論文含む](https://www.dropbox.com/s/5j29xhkktqarc7w/turk-sample-code.zip?dl=0)  
 [デモ動画](https://youtu.be/rXGSDsaLuQ8)
 
 # 課題提出・質問
