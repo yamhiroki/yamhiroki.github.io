@@ -34,7 +34,14 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
-## 第1回
+## 第2回 6/15（水)
+- MATLAB基礎2 レッスン1, 2, 3
+  - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
+- お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
+  - line 57-73, 127-142
+  - line 153, How to shuffle
+
+## 第1回 6/8（水)
 - 認知科学実験の作り方  
 デモを通じてお手本研究の刺激呈示の流れを把握します。保存された実験結果のファイルを見ながら、刺激呈示と結果解析のプログラミングに何が必要か考えます。
 - MATLAB基礎1  
