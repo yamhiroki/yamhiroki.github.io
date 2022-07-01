@@ -53,8 +53,17 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)
   - [matファイルはload関数で読み込めます](https://jp.mathworks.com/help/matlab/ref/load.html) 　　
 - 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)  
- - 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0), [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0) 
-- [今回の授業スクリプト](https://www.dropbox.com/s/mb9b7upk2bdc4p3/lev_3rd_2022.txt?dl=0)  
+ - 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0), [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0)
+- [今回の授業スクリプト](https://www.dropbox.com/s/mb9b7upk2bdc4p3/lev_3rd_2022.txt?dl=0)
+- **octaveにはnanmean(), nanstd()がデフォルトでは入っていません。**下記の手順で[statisticsパッケージ](https://octave.sourceforge.io/statistics/index.html)  をインストールしてください。
+```
+>> pkg install -forge io
+>> pkg install -forge statistics
+```
+statisticsパッケージの関数（nanmean()等）を使うときは、まず、以下のように、パッケージをロードする必要があります。
+```
+>> pkg load statistics
+```
 
 ## 第2回 6/15（水)
 - MATLAB基礎2 レッスン1, 2, 3
