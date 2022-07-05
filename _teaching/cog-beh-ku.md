@@ -34,6 +34,25 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第5回 7/6（水）
+- 前回の課題講評
+- MATLABの基礎5 レッスン9, 10, 11
+　- スクリプト, 条件, ループ, エラー検出
+- お手本研究ソースコード解読 artmuse_nBack_sampleCode.m  
+  - 実験のメインループ：2重（ブロック, 試行）ループ line 348 - 629  
+    ````matlab
+    %start block loop
+    for block = 1:2
+        :
+        % start trial loop
+        for trial = 1:numTrials
+        :
+        end % end trial loop
+        :
+    end % end block loop
+    ````   
+- 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)
+
 ## 第4回 6/29（水)
 - 前回の課題講評
 - 前回の復習 練習問題D
@@ -45,6 +64,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - 課題　教科書　練習問題E　WEBフォームより提出(PDF or text)  
     - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
   - [今回の授業スクリプト](https://www.dropbox.com/s/ukm0osiaivlymz1/lec4th_2022.txt?dl=0)
+  - 解答例 [練習E](https://www.dropbox.com/s/l5zyba6m95kela8/ex_e.m?dl=0)
 
 ## 第3回 6/22　(水)
 - 前回の課題講評
@@ -53,7 +73,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)
   - [matファイルはload関数で読み込めます](https://jp.mathworks.com/help/matlab/ref/load.html) 　　
 - 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)  
- - 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0), [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0)
+ - 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0), [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0), [練習D](https://www.dropbox.com/s/s18j2zeeg2l95zb/ex_d.m?dl=0)
 - [今回の授業スクリプト](https://www.dropbox.com/s/mb9b7upk2bdc4p3/lev_3rd_2022.txt?dl=0)
 - **octaveにはnanmean(), nanstd()がデフォルトでは入っていません。**下記の手順で[statisticsパッケージ](https://octave.sourceforge.io/statistics/index.html)  をインストールしてください。lsline()もこのパッケージです。
 ```
