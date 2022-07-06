@@ -1,4 +1,3 @@
----
 title: "認知行動科学実験1:認知科学のためのプログラミング"
 collection: teaching
 type: "Lecture"
@@ -51,7 +50,11 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
         :
     end % end block loop
     ````   
-- 課題　教科書　練習問題F 　WEBフォームより提出(PDF or text)
+- 今回のスクリプト・関数
+  [lesson8.m](https://www.dropbox.com/s/04z80h7gg2s7h9u/lesson8.m?dl=0)
+  [nearest.m](https://www.dropbox.com/s/8y216yu6hpj4mr7/nearest.m?dl=0)
+  [lec5th.txt](https://www.dropbox.com/s/izs95ek0blk23sn/lec5th.txt?dl=0)
+- 課題　教科書　練習問題F WEBフォームより提出(PDF or text), HINT: rand(1)を繰り返す。
 
 ## 第4回 6/29（水)
 - 前回の課題講評
