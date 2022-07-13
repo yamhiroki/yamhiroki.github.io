@@ -33,6 +33,20 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第6回 7/13（水)
+- 前回の課題講評　　
+- MATLABの基礎6 レッスン12, 14  
+  - データ構造: セル配列, 構造体配列  
+  - データ入力: fopen(), fgets(), textscan(), csv file
+- お手本研究ソースコード解読 artmuse_nBack_analysisCode.m
+  - 実験結果データ入力部 [line 26 - 32.](https://www.dropbox.com/s/yetkbx6j3q75pdl/Otehon_DataInput.png?dl=0)
+  - 結果ファイル例 [csv]()
+- 課題　
+  - 教科書　練習問題G 　WEBフォームより提出(PDF or text)
+  - 課題　教科書　練習問題G 　WEBフォームより提出(PDF or text)  
+  - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
+  - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
+
 ## 第5回 7/6（水）
 - 前回の課題講評
 - MATLABの基礎5 レッスン9, 10, 11
@@ -54,7 +68,8 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   [lesson8.m](https://www.dropbox.com/s/04z80h7gg2s7h9u/lesson8.m?dl=0)
   [nearest.m](https://www.dropbox.com/s/8y216yu6hpj4mr7/nearest.m?dl=0)
   [lec5th.txt](https://www.dropbox.com/s/izs95ek0blk23sn/lec5th.txt?dl=0)
-- 課題　教科書　練習問題F WEBフォームより提出(PDF or text), HINT: rand(1)を繰り返す。
+- 課題　教科書　練習問題F WEBフォームより提出(PDF or text)
+  - 解答例 [練習F](https://www.dropbox.com/s/giqtlp76dr7459z/ex_f.m?dl=0), [標準誤差の関数](https://www.dropbox.com/s/v92j32hk78y3wjj/std_error.m?dl=0)
 
 ## 第4回 6/29（水)
 - 前回の課題講評
