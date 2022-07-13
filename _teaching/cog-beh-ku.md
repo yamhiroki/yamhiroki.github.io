@@ -1,3 +1,4 @@
+---
 title: "認知行動科学実験1:認知科学のためのプログラミング"
 collection: teaching
 type: "Lecture"
