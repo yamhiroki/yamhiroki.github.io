@@ -46,6 +46,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - 教科書　練習問題G 　WEBフォームより提出(PDF or text)  
   - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
   - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)
+- 今回のスクリプト [lec6th.txt](https://www.dropbox.com/s/2lrfl0eik6i916r/lec6th.txt?dl=0)
 
 ## 第5回 7/6（水）
 - 前回の課題講評
