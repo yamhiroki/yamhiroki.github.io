@@ -11,8 +11,7 @@ location: "Kyoto, Japan"
 
 ### お知らせ  
 #### 6/3/2022
-サイトを公開しました。今後、授業の進捗に合わせて更新していきます。  
-URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.io/teaching/cog-beh-ku)
+サイトを公開しました。今後、授業の進捗に合わせて更新していきます。
 
 # 授業内容
 認知科学実験を行うためのMATLABプログラミングを学びます。そのために、下記の教科書で基本を学びつつ、実際の認知科学実験のソースコードを解読します。
