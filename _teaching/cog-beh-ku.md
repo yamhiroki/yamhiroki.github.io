@@ -42,7 +42,8 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - [練習HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
   - tidy data, tidyverse
   - read_csv(), write_csv(), ggplot()
-  - [実験結果例](https://www.dropbox.com/s/y3kv3jjpgmbdg3w/HY_L_indexfinger_hf202207s11n01_20220712T205120.csv?dl=0)[分析例](https://www.dropbox.com/s/le5i6wmx010xai8/PlotPsychoMetricFunction.R?dl=0)
+    - [実験結果例](https://www.dropbox.com/s/y3kv3jjpgmbdg3w/HY_L_indexfinger_hf202207s11n01_20220712T205120.csv?dl=0)
+    - [分析例](https://www.dropbox.com/s/le5i6wmx010xai8/PlotPsychoMetricFunction.R?dl=0)
   - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
    [English version, free](https://r4ds.had.co.nz/)
 
