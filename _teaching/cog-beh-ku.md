@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/cog-beh-ku
 venue: "京都大学, 総人"
-date: 2022-04-13
+date: 2023-06-05
 location: "Kyoto, Japan"
 ---
 
