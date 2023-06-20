@@ -34,6 +34,14 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第3回 6/21　(水)
+- 前回の課題講評
+- MATLAB基礎3 レッスン4, 5, 6, 7  　　
+  - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
+  - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)
+  - [matファイルはload関数で読み込めます](https://jp.mathworks.com/help/matlab/ref/load.html) 　　
+- 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)  
+
 ## 第2回 6/14（水)
 - MATLAB基礎2 レッスン1, 2, 3
   - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
