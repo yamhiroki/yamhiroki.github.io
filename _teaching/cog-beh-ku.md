@@ -34,6 +34,25 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第5回 7/5（水）
+- 前回の課題講評
+- MATLABの基礎5 レッスン9, 10, 11
+　- スクリプト, 条件, ループ, エラー検出
+- お手本研究ソースコード解読 artmuse_nBack_sampleCode.m  
+  - 実験のメインループ：2重（ブロック, 試行）ループ line 348 - 629  
+    ````matlab
+    %start block loop
+    for block = 1:2
+        :
+        % start trial loop
+        for trial = 1:numTrials
+        :
+        end % end trial loop
+        :
+    end % end block loop
+    ````   
+- 課題　教科書　練習問題F WEBフォームより提出(PDF or text)
+
 ## 第4回 6/28（水)
 - 前回の課題講評
 - 練習問題D
@@ -44,6 +63,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - 参考　Rでグラフ [ggplot2](https://ggplot2-book.org/)  
   - 課題　教科書　練習問題E　WEBフォームより提出(PDF or text)  
     - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
+    - 解答例 [練習E](https://www.dropbox.com/s/l5zyba6m95kela8/ex_e.m?dl=0)
 
 ## 第3回 6/21（水)
 - 前回の課題講評
