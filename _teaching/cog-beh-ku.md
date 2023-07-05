@@ -50,7 +50,9 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
         end % end trial loop
         :
     end % end block loop
-    ````   
+    ````
+- ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
+- ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)   
 - 課題　教科書　練習問題F WEBフォームより提出(PDF or text)
 
 ## 第4回 6/28（水)
