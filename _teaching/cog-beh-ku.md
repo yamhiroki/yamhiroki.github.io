@@ -34,6 +34,18 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第6回 7/12（水)
+- 前回の課題講評　　
+- MATLABの基礎6 レッスン12, 14  
+  - データ構造: セル配列, 構造体配列  
+  - データ入力: fopen(), fgets(), textscan(), csv file
+- お手本研究ソースコード解読 artmuse_nBack_analysisCode.m
+  - 実験結果データ入力部 [line 26 - 32.](https://www.dropbox.com/s/yetkbx6j3q75pdl/Otehon_DataInput.png?dl=0)
+  - 結果ファイル例 [csv](https://www.dropbox.com/s/y3kv3jjpgmbdg3w/HY_L_indexfinger_hf202207s11n01_20220712T205120.csv?dl=0)
+  - [整然データ(tidy data)](https://www.jstage.jst.go.jp/article/jkg/67/9/67_448/_pdf) 
+- 課題　
+  - 教科書　練習問題G 　WEBフォームより提出(PDF or text)  
+
 ## 第5回 7/5（水）
 - 前回の課題講評
 - MATLABの基礎5 レッスン9, 10, 11
@@ -54,6 +66,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - ご自身のPCにR言語をインストールしてください。[ダウンロードサイト](https://cran.ism.ac.jp/)
 - ご自身のPCにRStudio（Free版)をインストールしてください。[ダウンロードサイト](https://rstudio.com/products/rstudio/download/)   
 - 課題　教科書　練習問題F WEBフォームより提出(PDF or text)
+  - 解答例 [練習F](https://www.dropbox.com/s/giqtlp76dr7459z/ex_f.m?dl=0), [標準誤差の関数](https://www.dropbox.com/s/v92j32hk78y3wjj/std_error.m?dl=0)
 
 ## 第4回 6/28（水)
 - 前回の課題講評
