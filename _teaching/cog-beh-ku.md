@@ -45,7 +45,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - [整然データ(tidy data)](https://www.jstage.jst.go.jp/article/jkg/67/9/67_448/_pdf) 
 - 課題　
   - 教科書　練習問題G 　WEBフォームより提出(PDF or text)  
-
+    - 解答例 [練習G](https://www.dropbox.com/s/gecd46qgbbqdfpo/ex_g.m?dl=0)
 ## 第5回 7/5（水）
 - 前回の課題講評
 - MATLABの基礎5 レッスン9, 10, 11
