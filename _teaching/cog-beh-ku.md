@@ -34,6 +34,18 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+
+## 第7回 7/19（水）
+- 前回の課題講評
+- 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
+  - 解答例　[練習H matlab script](https://www.dropbox.com/s/dx8mdk10v931mf8/ExH.m?dl=0)
+- R言語による探索的データ解析　入門 
+  - [練習HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
+  - tidy data, tidyverse
+  - read_csv(), write_csv(), ggplot() etc.
+  - [参考図書](https://www.oreilly.co.jp/books/9784873118147/)   
+    [English version, free](https://r4ds.had.co.nz/)
+
 ## 第6回 7/12（水)
 - 前回の課題講評　　
 - MATLABの基礎6 レッスン12, 14  
