@@ -19,10 +19,19 @@ MN-Pythonを使った脳波解析を実習します。
 
 # 講義
 ## 第1回 2023/11/16（木)
+- 心理データの保存形式 [整然データ](https://okumuralab.org/~okumura/python/tidy.html)
+
+- 実験・解析用ディレクトリの構成指針
+    
+    実験（解析）コード - 実験（解析）結果の対応を明確にすること。
+
 - 各種ノイズ除去 [スクリプト](https://www.dropbox.com/scl/fi/l83ko1m71r9bx8lsuh7pp/noise_removal.zip?rlkey=donfvxbguxvxbms3bf8g27bcc&dl=0)
+
 - 事象関連応答 [スクリプト](https://www.dropbox.com/scl/fi/x9enhq6ax7lnuhrbg73pi/Epoching.py?rlkey=uzo2kidgt36jzdfl041q7eg94&dl=0)
-- 脳表活動の推定[スクリプト]()
-- 授業で使用する[データ](https://www.dropbox.com/scl/fi/mtp856jl3t8b2fzealjuk/data.zip?rlkey=3tbuexz1nwu7isnq0egd42580&dl=0)
+
+- 脳表活動の推定 [スクリプト準備中]()
+
+- 授業で使用する [データ](https://www.dropbox.com/scl/fi/mtp856jl3t8b2fzealjuk/data.zip?rlkey=3tbuexz1nwu7isnq0egd42580&dl=0)
 
 
 ## 第0回 授業日まで
