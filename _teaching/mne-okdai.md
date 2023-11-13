@@ -13,6 +13,10 @@ MNEによる脳波解析実習(岡大）に関する情報を提供します。
 #### 11/11/2023
 サイトを公開しました。今後、授業の進捗に合わせて更新していきます。  
 URL [https://yamhiroki.github.io/teaching/mne-okadai](https://yamhiroki.github.io/teaching/mne-okadai)
+#### 質問等
+[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeikKubclt8G23Q-b_Akfemc_8qKf4H3GcZWfDubrrx1gxNFQ/viewform)
+京都大学大学院人間・環境学研究科 山本洋紀
+yamhiroki@gmail.com
 
 # 授業内容
 MN-Pythonを使った脳波解析を実習します。
@@ -31,7 +35,7 @@ MN-Pythonを使った脳波解析を実習します。
 
 - 脳表活動の推定 [スクリプト準備中]()
 
-- 授業で使用する実習用 [データ](https://www.dropbox.com/scl/fi/mtp856jl3t8b2fzealjuk/data.zip?rlkey=3tbuexz1nwu7isnq0egd42580&dl=0)
+- 授業で使用する実習用 [データ](https://www.dropbox.com/scl/fi/9i97k1l8vkxngzett6kx9/data.zip?rlkey=jii7fgtxwa9d2g2xvey9voh6i&dl=0)
 
 
 ## 第0回 授業日まで
