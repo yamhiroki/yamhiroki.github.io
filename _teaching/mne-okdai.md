@@ -39,6 +39,8 @@ MN-Pythonを使った脳波解析を実習します。
 
 - 授業で使用する実習用 [データ](https://www.dropbox.com/scl/fi/9i97k1l8vkxngzett6kx9/data.zip?rlkey=jii7fgtxwa9d2g2xvey9voh6i&dl=0)
 
+- Rでの読み込み[MNE-R](https://mne.tools/mne-r/)
+
 
 ## 第0回 授業日まで
 ### PC環境の整備等
