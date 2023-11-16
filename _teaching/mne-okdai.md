@@ -33,7 +33,7 @@ MN-Pythonを使った脳波解析を実習します。
 
 - 事象関連応答 [スクリプト](https://www.dropbox.com/scl/fi/x9enhq6ax7lnuhrbg73pi/Epoching.py?rlkey=uzo2kidgt36jzdfl041q7eg94&dl=0)
 
-- 脳表活動の推定 [スクリプト準備中]()
+- 脳表活動の推定 [スクリプト](https://www.dropbox.com/scl/fi/yt8dddvx2ue4y0mblm770/surface_map.zip?rlkey=w8kdglsn8goahv2wyd2icmehj&dl=0)
 
 - 授業で使用する実習用 [データ](https://www.dropbox.com/scl/fi/9i97k1l8vkxngzett6kx9/data.zip?rlkey=jii7fgtxwa9d2g2xvey9voh6i&dl=0)
 
