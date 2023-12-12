@@ -25,21 +25,30 @@ MN-Pythonを使った脳波解析を実習します。
 ## 第2回 2023/12/14（木)
 - 準備
     - [RとRstudioのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/index.html)
-    - [Rパッケージのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/05_installation_of_packages.html): tidyverse, stringr, kinitr, lmerTest, caret
-- 事象関連応答のピーク検出[スクリプト](https://www.dropbox.com/scl/fi/o4tagtac3cembpibx598l/GetPeaks.py?rlkey=eihya01mwn99li85j4j5bua39&dl=0)
-- 行動データと脳波ピークの同時分析[スクリプト](https://www.dropbox.com/scl/fi/wiponp9ywn21c23q8rkyf/BehEEGPeaks1.R?rlkey=xxskgfd29y0vq6noznbajba7y&dl=0)
+    - [Rパッケージのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/05_installation_of_packages.html): tidyverse, stringr, kinitr, lmerTest, caret, devtools
+    - （できれば）[MNE-Rのインストール](https://mne.tools/mne-r/)
+- 事象関連応答のピーク検出 [スクリプト](https://www.dropbox.com/scl/fi/o4tagtac3cembpibx598l/GetPeaks.py?rlkey=eihya01mwn99li85j4j5bua39&dl=0)
+- 行動データと脳波ピークの同時分析 [スクリプト](https://www.dropbox.com/scl/fi/wiponp9ywn21c23q8rkyf/BehEEGPeaks1.R?rlkey=xxskgfd29y0vq6noznbajba7y&dl=0)
     - 反応時間, 正答率の条件間比較（自然シーン、人工シーン）
     - ピーク潜時と振幅の条件間比較
     - 試行毎の分析1：ピーク潜時と反応時間（正誤答）, ピーク振幅と反応時間（正誤答）
     - 試行毎の分析2：ピーク潜時・振幅から反応時間・正誤答を予測
-    - 試行毎の分析2：ピーク潜時・振幅から条件をデコーディング    
+    - 試行毎の分析2：ピーク潜時・振幅から条件をデコーディング
+- 行動データのグループ解析
+    - 線形混合モデルによる反応時間, 正答率の条件間比較（自然シーン、人工シーン）
 - 背景知識
     - ブートストラップ法
     - 線形回帰（モデル）
     - 線形判別分析
     - 混同行列
     - 交差検定
-    
+    - 線形混合モデル
+- 上記知識に関して、自学自習に適したサイトを紹介しておきます。
+    - [R for Data Science](https://r4ds.had.co.nz/)
+    - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html#why-does-this-book-exist)  
+    - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
+        - [course book](https://psych252.github.io/psych252book/)
+
 ## 第1回 2023/11/16（木)
 - 実験データの保存形式 [整然データ](https://okumuralab.org/~okumura/python/tidy.html)
 
