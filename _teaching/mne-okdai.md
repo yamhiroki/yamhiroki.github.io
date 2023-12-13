@@ -25,7 +25,7 @@ MN-Pythonを使った脳波解析を実習します。
 ## 第2回 2023/12/14（木)
 - 準備
     - [RとRstudioのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/index.html)
-    - [Rパッケージのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/05_installation_of_packages.html): tidyverse, stringr, kinitr, lmerTest, caret, devtools
+    - [Rパッケージのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/05_installation_of_packages.html): tidyverse, stringr, kinitr, lmerTest, caret, devtools, Hmisc
     - （できれば）[MNE-Rのインストール](https://mne.tools/mne-r/)
 - 事象関連応答のピーク検出 [スクリプト](https://www.dropbox.com/scl/fi/o4tagtac3cembpibx598l/GetPeaks.py?rlkey=eihya01mwn99li85j4j5bua39&dl=0)
 - 行動データと脳波ピークの同時分析 [スクリプト](https://www.dropbox.com/scl/fi/wiponp9ywn21c23q8rkyf/BehEEGPeaks1.R?rlkey=xxskgfd29y0vq6noznbajba7y&dl=0)
