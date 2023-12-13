@@ -28,7 +28,7 @@ MN-Pythonを使った脳波解析を実習します。
     - [Rパッケージのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/05_installation_of_packages.html): tidyverse, stringr, kinitr, lmerTest, caret, devtools, Hmisc
     - （できれば）[MNE-Rのインストール](https://mne.tools/mne-r/)
 - 事象関連応答のピーク検出 [スクリプト](https://www.dropbox.com/scl/fi/o4tagtac3cembpibx598l/GetPeaks.py?rlkey=eihya01mwn99li85j4j5bua39&dl=0)
-- 行動データと脳波ピークの同時分析 [スクリプト](https://www.dropbox.com/scl/fi/wiponp9ywn21c23q8rkyf/BehEEGPeaks1.R?rlkey=xxskgfd29y0vq6noznbajba7y&dl=0)
+- 行動データと脳波ピークの同時分析 [スクリプト](https://www.dropbox.com/scl/fi/wiponp9ywn21c23q8rkyf/BehEEGPeaks1.R?rlkey=xxskgfd29y0vq6noznbajba7y&dl=0) [結果](https://www.dropbox.com/scl/fi/35uc748lhd35783hssugk/BehEEGPeaks1.html?rlkey=5u4k1s0f7508nvspp2m3spcew&dl=0)
     - 反応時間, 正答率の条件間比較（自然シーン、人工シーン）
     - ピーク潜時と振幅の条件間比較
     - 試行毎の分析1：ピーク潜時と反応時間（正誤答）, ピーク振幅と反応時間（正誤答）
