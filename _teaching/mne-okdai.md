@@ -58,7 +58,7 @@ MN-Pythonを使った脳波解析を実習します。
 
 - 各種ノイズ除去 [スクリプト](https://www.dropbox.com/scl/fi/l83ko1m71r9bx8lsuh7pp/noise_removal.zip?rlkey=donfvxbguxvxbms3bf8g27bcc&dl=0)
 
-- 事象関連応答 [スクリプト](https://www.dropbox.com/scl/fi/x9enhq6ax7lnuhrbg73pi/Epoching.py?rlkey=uzo2kidgt36jzdfl041q7eg94&dl=0)
+- 事象関連応答 [スクリプト](https://www.dropbox.com/scl/fi/vnrla4m3beekgcdxo9pvp/Epoching.py?rlkey=9i6b37d7035ualrfp2t6cdl1y&dl=0)
     - topomap[スクリプト](https://www.dropbox.com/scl/fi/qhvjf1huoa23dd842jac5/PlotTopo.py?rlkey=simji8b291fn46klrydmg8004&dl=0)
     - EDF[スクリプト](https://www.dropbox.com/scl/fi/8tyrd3143ehs7dttikb2q/write_edf.py?rlkey=97g3kg3ompl7eam4ven22yhnh&dl=0)
 
