@@ -10,6 +10,9 @@ location: "Okayama, Japan"
 MNEによる脳波解析実習(岡大）に関する情報を提供します。
 
 ### お知らせ  
+#### 12/14/2023 20:18
+行動データのグループ解析のスクリプト(BehGroup1.R)を更新しました。
+
 #### 11/11/2023
 サイトを公開しました。今後、授業の進捗に合わせて更新していきます。  
 URL [https://yamhiroki.github.io/teaching/mne-okadai](https://yamhiroki.github.io/teaching/mne-okadai)
