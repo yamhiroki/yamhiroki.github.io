@@ -35,7 +35,7 @@ MN-Pythonを使った脳波解析を実習します。
     - 試行毎の分析1：ピーク潜時と反応時間（正誤答）, ピーク振幅と反応時間（正誤答）
     - 試行毎の分析2：ピーク潜時・振幅から反応時間・正誤答を予測
     - 試行毎の分析3：ピーク潜時・振幅から条件をデコーディング
-- 行動データのグループ解析[スクリプト](https://www.dropbox.com/scl/fi/zenohbb4y14syx5sknn6m/BehGroup1.R?rlkey=5b2jg6tfj34amt7o08wacmt1i&dl=0) [結果](https://www.dropbox.com/scl/fi/l90b7rgdu533wl7frva5b/BehGroup1.html?rlkey=jyisy7gdl2i9byklo1zwsayvx&dl=0)
+- 行動データのグループ解析[スクリプト](https://www.dropbox.com/scl/fi/zenohbb4y14syx5sknn6m/BehGroup1.R?rlkey=5b2jg6tfj34amt7o08wacmt1i&dl=0) [結果](https://www.dropbox.com/scl/fi/l90b7rgdu533wl7frva5b/BehGroup1.html?rlkey=jyisy7gdl2i9byklo1zwsayvx&dl=0) [データ](https://www.dropbox.com/scl/fi/3et2whwai103u1ahv4jql/group_all.csv?rlkey=ky564fm67iorfv47fjz5h0dnm&dl=0)
     - 線形混合モデルによる反応時間, 正答率の条件間比較（自然シーン、人工シーン）
 - 背景知識
     - ブートストラップ法
