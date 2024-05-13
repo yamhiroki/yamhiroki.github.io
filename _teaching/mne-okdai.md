@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/mne-okadai
 venue: "岡山大学"
-date: 2023-11-12
+date: 2024-5-13
 location: "Okayama, Japan"
 ---
 心理・脳波計測の解析実習(岡大）に関する情報を提供します。
