@@ -43,3 +43,10 @@ R言語を使った心理実験解析とMNE-Pythonを使った脳波解析を実
 - ソフトウェアの準備
     - MNEの[インストール](https://mne.tools/stable/install/index.html)
     - Visual Studio Codeの[インストール](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+- [授業資料のダウンロード](https://www.dropbox.com/scl/fi/89ckkeaxx15itdi2ymcvs/day2.zip?rlkey=5iryjick7fkvwpqo0q6ezez0v&st=p0fva8rg&dl=0)
+- python言語の基礎, 脳波データの入出力
+- ノイズ除去(ICA etc.)
+- 事象関連電位
+- ピーク検出
+- 行動データとの比較, 線形判別分析
+- (脳表面へのマッピング)
