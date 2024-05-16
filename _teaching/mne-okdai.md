@@ -9,7 +9,8 @@ location: "Okayama, Japan"
 ---
 心理・脳波計測の解析実習(岡大）に関する情報を提供します。
 
-### お知らせ  
+### お知らせ
+#### 2024/5/16 Day1のスクリプトを更新しました  
 #### 2024/5/13
 サイトを公開しました。今後、授業の進捗に合わせて更新していきます。  
 URL [https://yamhiroki.github.io/teaching/mne-okadai](https://yamhiroki.github.io/teaching/mne-okadai)
@@ -27,7 +28,9 @@ R言語を使った心理実験解析とMNE-Pythonを使った脳波解析を実
     - [RとRstudioのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/index.html)
     - [Rパッケージのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/05_installation_of_packages.html): tidyverse, stringr, kinitr, lmerTest, caret, devtools, Hmisc
    
-- [授業資料のダウンロード](https://www.dropbox.com/scl/fi/hpv2pw7a9nutiov1bqrt9/day1.zip?rlkey=k529rxwwgh41o4ib1p9w1jlco&dl=0) 
+- [授業資料のダウンロード](https://www.dropbox.com/scl/fi/hpv2pw7a9nutiov1bqrt9/day1.zip?rlkey=k529rxwwgh41o4ib1p9w1jlco&dl=0)
+- [更新したスクリプトと結果](https://www.dropbox.com/scl/fi/hh7rsp5xgrk82mk8gfs4g/BehAnalysesUpdated.zip?rlkey=knsgqahgf7w22ctakwqqdpdud&dl=0)
+    - グループ解析に個人差を可視化するグラフを追加, ベストモデルのフィットとpost-hocテストを追加しました。
 - R言語の基礎：ファイル入出力, for loop, 文字列処理, 可視化
 - EDA, CDA
 - 個人解析
