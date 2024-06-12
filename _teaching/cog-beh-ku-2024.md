@@ -40,6 +40,13 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - MATLAB基礎1  
 教科書にそって、実際に手を動かしてプログラミングします。
 
+## 第2回 6/12（水)
+- MATLAB基礎 レッスン1, 2, 3
+  - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
+- お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
+  - line 57-73, 127-142
+  - line 153, How to shuffle
+
 ## 第0回 授業日まで
 ### PC環境の整備等
 - matlab はすでに月浦先生の回でインストールされていると思います。
