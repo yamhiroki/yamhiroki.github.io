@@ -46,6 +46,15 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
   - line 57-73, 127-142
   - line 153, How to shuffle
+- - 解答例 [練習A](https://www.dropbox.com/s/lbbmbwumkqf56he/ex_a.m?dl=0)
+
+## 第3回 6/19（水)
+- 前回の課題講評
+- MATLAB基礎3 レッスン4, 5, 6, 7  　　
+  - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
+  - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)
+  - [matファイルはload関数で読み込めます](https://jp.mathworks.com/help/matlab/ref/load.html) 　　
+- 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)
 
 ## 第0回 授業日まで
 ### PC環境の整備等
