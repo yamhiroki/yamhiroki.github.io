@@ -34,11 +34,23 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
-## 第1回 6/5（水)
-- 認知科学実験の作り方  
-デモを通じてお手本研究の刺激呈示の流れを把握します。保存された実験結果のファイルを見ながら、刺激呈示と結果解析のプログラミングに何が必要か考えます。
-- MATLAB基礎1  
-教科書にそって、実際に手を動かしてプログラミングします。
+## 第4回 6/26（水)
+- 前回の課題講評
+- MATLABの基礎4 レッスン 7, 8, 9, 10, 11  
+  - グラフ
+  - 参考　Rでグラフ [ggplot2](https://ggplot2-book.org/)  
+  - スクリプト, 条件, ループ, エラー検出
+  - 課題　教科書　練習問題D, E, Fの(2), WEBフォームより提出(PDF or text)  
+    - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
+
+## 第3回 6/19（水)
+- 前回の課題講評
+- MATLAB基礎3 レッスン4, 5, 6 　　
+  - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
+  - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)
+  - [matファイルはload関数で読み込めます](https://jp.mathworks.com/help/matlab/ref/load.html) 　　
+- 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)
+- - 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0), [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0)
 
 ## 第2回 6/12（水)
 - MATLAB基礎 レッスン1, 2, 3
@@ -48,13 +60,11 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - line 153, How to shuffle
 - - 解答例 [練習A](https://www.dropbox.com/s/lbbmbwumkqf56he/ex_a.m?dl=0)
 
-## 第3回 6/19（水)
-- 前回の課題講評
-- MATLAB基礎3 レッスン4, 5, 6, 7  　　
-  - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
-  - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)
-  - [matファイルはload関数で読み込めます](https://jp.mathworks.com/help/matlab/ref/load.html) 　　
-- 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)
+## 第1回 6/5（水)
+- 認知科学実験の作り方  
+デモを通じてお手本研究の刺激呈示の流れを把握します。保存された実験結果のファイルを見ながら、刺激呈示と結果解析のプログラミングに何が必要か考えます。
+- MATLAB基礎1  
+教科書にそって、実際に手を動かしてプログラミングします。
 
 ## 第0回 授業日まで
 ### PC環境の整備等
