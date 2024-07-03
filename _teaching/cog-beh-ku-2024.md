@@ -34,6 +34,18 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第5回 7/3（水)
+- MATLABの基礎5 レッスン12, 14  
+  - データ構造: セル配列, 構造体配列  
+  - データ入力: fopen(), fgets(), textscan(), csv file
+- お手本研究ソースコード解読 artmuse_nBack_analysisCode.m
+  - 実験結果データ入力部 [line 26 - 32.](https://www.dropbox.com/s/yetkbx6j3q75pdl/Otehon_DataInput.png?dl=0)
+  - 結果ファイル例 [csv](https://www.dropbox.com/s/y3kv3jjpgmbdg3w/HY_L_indexfinger_hf202207s11n01_20220712T205120.csv?dl=0)
+  - [整然データ(tidy data)](https://www.jstage.jst.go.jp/article/jkg/67/9/67_448/_pdf) 
+- 課題　
+  - 教科書　練習問題G 　WEBフォームより提出(PDF or text) 
+  - 解答例 [練習G](https://www.dropbox.com/s/gecd46qgbbqdfpo/ex_g.m?dl=0)
+
 ## 第4回 6/26（水)
 - 前回の課題講評
 - MATLABの基礎4 レッスン 7, 8, 9, 10, 11  
