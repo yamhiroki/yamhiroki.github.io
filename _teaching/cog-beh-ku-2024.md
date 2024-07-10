@@ -34,6 +34,16 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第6回 7/10（水）
+- 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
+  - 解答例　[練習H matlab script](https://www.dropbox.com/s/dx8mdk10v931mf8/ExH.m?dl=0)
+- R言語による探索的データ解析　入門 
+  - [練習HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
+  - tidy data, tidyverse
+  - read_csv(), write_csv(), ggplot() etc.
+  - [参考図書](https://www.amazon.co.jp/R%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9-%E7%AC%AC2%E7%89%88-Hadley-Wickham/dp/4814400772?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&ref_=fplfs&psc=1&smid=AN1VRQENFRJN5)   
+    [English version, free](https://r4ds.hadley.nz/)
+
 ## 第5回 7/3（水)
 - MATLABの基礎5 レッスン12, 14  
   - データ構造: セル配列, 構造体配列  
