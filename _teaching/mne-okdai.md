@@ -22,11 +22,11 @@ yamhiroki@gmail.com
 # 授業内容
 R言語を使った心理実験解析とMNE-Pythonを使った脳波解析を実習します。
 
-# 講義 2024/5/22(木)
-## AM 心理実験の解析
+# 準備
+- 授業までに授業資料を[ダウンロード](https://www.dropbox.com/scl/fi/lr8cyjhmna2zvqi2mgoc4/Lecture2025.zip?rlkey=a7vreump46bohpkhuntdq59wc&dl=0)して展開しておいてください。
 - ソフトウェアの準備
-    - [RとRstudioのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/index.html)
-    - [Rパッケージのインストール](https://syunsuke.github.io/r_install_guide_for_beginners/05_installation_of_packages.html)
+    - RとRstudioの[インストール](https://syunsuke.github.io/r_install_guide_for_beginners/index.html)
+    - Rパッケージの[インストール](https://syunsuke.github.io/r_install_guide_for_beginners/05_installation_of_packages.html)
         - tidyverse)
         - ggExtra
         - cowplot
@@ -39,8 +39,13 @@ R言語を使った心理実験解析とMNE-Pythonを使った脳波解析を実
         - performance
         - knitr
         - papaja
-
-- [実習資料のダウンロード](https://www.dropbox.com/scl/fi/apbob8pxu2gxzy3zxuodb/am.zip?rlkey=wwhrl7bumm7cp9rntcrrnzkid&e=1&dl=0)
+    - MNEの[インストール](https://mne.tools/stable/install/index.html)
+        - 時間がかかります。途中でハングしているようになりますが、辛抱強く待ってください。
+    - VisualStudio Codeの[インストール](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+    - WinMergeの[インストール](https://winmergejp.bitbucket.io/)
+    
+# 実習 2024/5/22(木)
+## AM 心理実験の解析
 - 触覚心理実験の結果の分析を通じて以下を学びます。
     - R言語の基礎：ファイル入出力, for loop, 文字列処理, 可視化
     - 探索的データ解析(EDA): ggplot2による可視化,主観的等価点, 心理測定関数
@@ -52,13 +57,9 @@ R言語を使った心理実験解析とMNE-Pythonを使った脳波解析を実
         - [course book](https://psych252.github.io/psych252book/)
 
 ## PM　脳波解析
-- ソフトウェアの準備
-    - MNEの[インストール](https://mne.tools/stable/install/index.html)
-    - Visual Studio Codeの[インストール](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
-- [授業資料のダウンロード](https://www.dropbox.com/scl/fi/89ckkeaxx15itdi2ymcvs/day2.zip?rlkey=5iryjick7fkvwpqo0q6ezez0v&st=p0fva8rg&dl=0)
 - python言語の基礎, 脳波データの入出力
 - ノイズ除去(ICA etc.)
 - 事象関連電位
-- ピーク検出
-- 行動データとの比較, 線形判別分析
+- ピーク検出（振幅, 潜時）
+- 行動データとの比較, 一般線形モデル, 線形判別分析
 - (脳表面へのマッピング)
