@@ -43,8 +43,9 @@ R言語を使った心理実験解析とMNE-Pythonを使った脳波解析を実
         - 時間がかかります。途中でハングしているようになりますが、辛抱強く待ってください。
     - VisualStudio Codeの[インストール](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
     - WinMergeの[インストール](https://winmergejp.bitbucket.io/)
+    - SigViewerの[インストール](https://github.com/cbrnr/sigviewer)　
     
-# 実習 2024/5/22(木)
+# 実習 2025/5/22(木)
 ## AM 心理実験の解析
 - 触覚心理実験の結果の分析を通じて以下を学びます。
     - R言語の基礎：ファイル入出力, for loop, 文字列処理, 可視化
