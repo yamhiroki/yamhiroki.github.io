@@ -10,4 +10,4 @@ location: "Shiga, Japan"
 
 test
 
-<iframe src="file:///biwako_menu.html" width="100%" height="600px"></iframe>
+<iframe src="/home/yamamoto/Dropbox/yamhiroki.github.io/_teaching/biwako_menu.html" width="100%" height="600px"></iframe>
