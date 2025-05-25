@@ -10,3 +10,4 @@ location: "Shiga, Japan"
 
 test
 
+<iframe src="./index.html" width="100%" height="600px"></iframe>
