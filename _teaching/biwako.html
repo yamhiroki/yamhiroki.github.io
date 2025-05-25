@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>メディア切り替え</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            background: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        img, video {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="mediaContainer">
+        <video id="media" autoplay loop muted></video>
+    </div>
+
+    <script>
+        const mediaFiles = ['actual_meter_clop.mp4', 'actual_map_clop.mp4', 'visual_acuity_table.jpg', 'yamaha_meter.mp4', 'yamaha_music.mp4'];
+        let currentIndex = 0;
+        const mediaContainer = document.getElementById('mediaContainer');
+
+        function updateMedia() {
+            const file = mediaFiles[currentIndex];
+            mediaContainer.innerHTML = file.endsWith(".mp4") 
+                ? `<video id="media" autoplay loop muted><source src="${file}" type="video/mp4"></video>`
+                : `<img id="media" src="${file}" alt="画像">`;
+        }
+
+        function nextMedia() {
+            currentIndex = (currentIndex + 1) % mediaFiles.length;
+            updateMedia();
+        }
+
+        let lastTap = 0;
+        mediaContainer.addEventListener('touchend', function(e) {
+            const currentTime = new Date().getTime();
+            if (currentTime - lastTap < 300) {
+                nextMedia();
+            }
+            lastTap = currentTime;
+        });
+
+        window.onload = updateMedia;
+    </script>
+</body>
+</html>
