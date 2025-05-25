@@ -10,4 +10,4 @@ location: "Shiga, Japan"
 
 test
 
-<iframe src="biwako.html" width="100%" height="600px"></iframe>
+<iframe src="biwako_menu.html" width="100%" height="600px"></iframe>
