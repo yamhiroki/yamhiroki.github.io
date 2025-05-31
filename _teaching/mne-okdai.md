@@ -59,7 +59,7 @@ R言語を使った心理実験解析とMNE-Pythonを使った脳波解析を実
     - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html#why-does-this-book-exist)  
     - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
         - [course book](https://psych252.github.io/psych252book/)
-- [説明つきのスクリプト](https://www.dropbox.com/scl/fi/cmoo0qg16p9h7t1y9w7bj/EDA_CDA_touch_lecture.Rmd?rlkey=tradzb2qurtvneoxlcaf01ere&st=gp2c5ffi&dl=0)です。説明を読みながら、クリックするだけでコードが実行できます。
+- [説明つきのスクリプト](https://www.dropbox.com/scl/fi/cmoo0qg16p9h7t1y9w7bj/EDA_CDA_touch_lecture.Rmd?rlkey=tradzb2qurtvneoxlcaf01ere&st=gp2c5ffi&dl=0)です。説明を読みながら、クリックするだけでコードが実行できます。EDA_CDA_touch_lecture.Rと同じフォルダーにいれてください。
 
 <iframe src="EDA_CDA_touch_lecture.html", width="1024" height="600"></iframe>
 
