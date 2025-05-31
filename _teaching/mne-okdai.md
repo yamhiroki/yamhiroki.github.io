@@ -11,6 +11,9 @@ location: "Okayama, Japan"
 心理・脳波計測の解析実習(岡大）に関する情報を提供します。
 
 ### お知らせ 
+#### 2025/5/31
+行動実験の解析について、説明付きのスクリプト(R markdown形式)を追加しました。復習に使ってください。
+
 #### 2025/5/20
 サイトを公開しました。今後、授業の進捗に合わせて更新していきます。  
 URL [https://yamhiroki.github.io/teaching/mne-okadai](https://yamhiroki.github.io/teaching/mne-okadai)
@@ -56,6 +59,10 @@ R言語を使った心理実験解析とMNE-Pythonを使った脳波解析を実
     - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html#why-does-this-book-exist)  
     - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
         - [course book](https://psych252.github.io/psych252book/)
+- [説明つきのスクリプト](https://www.dropbox.com/scl/fi/cmoo0qg16p9h7t1y9w7bj/EDA_CDA_touch_lecture.Rmd?rlkey=tradzb2qurtvneoxlcaf01ere&st=gp2c5ffi&dl=0)です。説明を読みながら、クリックするだけでコードが実行できます。
+
+<iframe src="EDA_CDA_touch_lecture.html", width="1024" height="600"></iframe>
+
 
 ## PM　脳波解析
 - python言語の基礎, 脳波データの入出力
