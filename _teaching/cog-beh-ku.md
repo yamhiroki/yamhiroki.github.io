@@ -34,6 +34,9 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第2回 6/4（水）
+- matlabの障害が続いているようですので、R言語の実習を行います。
+
 ## 第1回 5/28（水)
 - 下記PC環境準備のサポートの回にします。
 - ご自身で問題なく準備が完了した方は出席不要です。
