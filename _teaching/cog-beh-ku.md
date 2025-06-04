@@ -36,6 +36,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 
 ## 第2回 6/4（水）
 - matlabの障害が続いているようですので、R言語の実習を行います。
+- [資料1式](https://www.dropbox.com/scl/fi/7m9tbbkiayskivjmbjdgx/materials_2nd.zip?rlkey=ln1dq302c4w0ga6wk4aajq8rq&dl=0)
 
 ## 第1回 5/28（水)
 - 下記PC環境準備のサポートの回にします。
