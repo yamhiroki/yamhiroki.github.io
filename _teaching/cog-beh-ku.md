@@ -34,9 +34,14 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第3回 6/11（水）
+- R言語の続きをします。
+- matlab互換フリーウェアのoctaveをインストールします。
+
 ## 第2回 6/4（水）
 - matlabの障害が続いているようですので、R言語の実習を行います。
 - [資料1式](https://www.dropbox.com/scl/fi/7m9tbbkiayskivjmbjdgx/materials_2nd.zip?rlkey=ln1dq302c4w0ga6wk4aajq8rq&dl=0)
+- 実習した[Rマークダウンスクリプト](https://www.dropbox.com/scl/fi/ohzosw4x951mv83gg00hy/lec_2nd.Rmd?rlkey=a9m8izfywbarv5b55h4l8m70p&st=2mimh2mf&dl=0)
 
 ## 第1回 5/28（水)
 - 下記PC環境準備のサポートの回にします。
