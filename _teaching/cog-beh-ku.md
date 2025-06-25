@@ -38,6 +38,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - MATLAB基礎１ レッスン1, 2, 3
   - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
   - 練習A
+- - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)
 - お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
   - line 57-73, 127-142
   - line 153, How to shuffle
