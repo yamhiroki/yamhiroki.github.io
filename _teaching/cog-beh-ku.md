@@ -34,12 +34,22 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第6回 7/9
+- 練習C 確認
+- MATLAB基礎3 レッスン8, 9, 10, 11
+  - グラフ
+  - スクリプト, 条件, ループ, エラー検出
+  - 課題　教科書　練習問題D, E, Fの(2), WEBフォームより提出
+    - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
+
 ## 第5回 7/2
-- MATLAB基礎2 レッスン4, 5, 6 　　
+- MATLAB基礎2 レッスン4, 5, 6, 7 　　
   - 転置, 四則演算, ドット積, 関数, 引数, 論理演算子, NaN
   - [演習用データ](https://www.dropbox.com/s/sn1dkwk4wsebau5/m4psych_exercises_datasets.zip?dl=0)
   - [matファイルはload関数で読み込めます](https://jp.mathworks.com/help/matlab/ref/load.html) 　　
 - 課題　教科書 練習課題B,C WEBフォームより提出(PDF or text)
+- 解答例 [練習B](https://www.dropbox.com/s/c7c8s5l5knk229d/ex_b.m?dl=0)
+- 解答例 [練習C](https://www.dropbox.com/s/m2qe0sl06d5bnuz/ex_c.m?dl=0)
 
 ## 第4回 6/25
 - MATLAB基礎１ レッスン1, 2, 3
