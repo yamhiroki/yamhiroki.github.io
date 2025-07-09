@@ -36,11 +36,12 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 
 ## 第6回 7/9
 - 練習C 確認
-- MATLAB基礎3 レッスン8, 9, 10, 11
+- MATLAB基礎3 レッスン8, 9
   - グラフ
-  - スクリプト, 条件, ループ, エラー検出
-  - 課題　教科書　練習問題D, E, Fの(2), WEBフォームより提出
+  - スクリプト
+  - 課題　教科書　練習問題E WEBフォームより提出
     - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
+  - 解答例 [練習E](https://www.dropbox.com/s/l5zyba6m95kela8/ex_e.m?dl=0)
 
 ## 第5回 7/2
 - MATLAB基礎2 レッスン4, 5, 6, 7 　　
