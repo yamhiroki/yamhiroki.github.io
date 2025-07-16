@@ -34,6 +34,20 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第7回 7/16
+- MATLAB基礎4 レッスン 10, 11, 12, 14
+- 条件, ループ
+- データ構造: セル配列, 構造体配列
+- データ入力: fopen(), fgets(), textscan(), csv file
+- データ入力　おすすめ　YAMLファイル -> matlab構造体
+  - yaml file: .yml, .yaml [ReadYAML](https://github.com/llerussell/ReadYAML)
+    ```
+    settings = ReadYaml('settings.yml')
+    ```
+- 課題 
+  - 教科書　練習問題G 　WEBフォームより提出(PDF or text) 
+  - 解答例 [練習G](https://www.dropbox.com/s/gecd46qgbbqdfpo/ex_g.m?dl=0)
+
 ## 第6回 7/9
 - 練習C 確認
 - MATLAB基礎3 レッスン8, 9
