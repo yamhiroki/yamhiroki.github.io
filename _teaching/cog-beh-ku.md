@@ -34,7 +34,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
-## 第1回 5/28（水)
+## 第1回 5/27（水)
 - イントロ
 - 下記PC環境準備
 - matlab はすでに月浦先生の回でインストールされていると思います。まだの方は[情報環境機構のHP](https://www.iimc.kyoto-u.ac.jp/ja/services/ismc/license/how-to-use/matlab)を参照してください。[インストールガイド](https://www.iimc.kyoto-u.ac.jp/sites/default/files/2025-02/ku-matlab-start-guide-ja.pdf)
