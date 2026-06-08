@@ -34,9 +34,10 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
-## 第1回 5/27（水)
+## 第1回 6/10（水)
 - イントロ
-- 下記PC環境準備
-- matlab はすでに月浦先生の回でインストールされていると思います。まだの方は[情報環境機構のHP](https://www.iimc.kyoto-u.ac.jp/ja/services/ismc/license/how-to-use/matlab)を参照してください。[インストールガイド](https://www.iimc.kyoto-u.ac.jp/sites/default/files/2025-02/ku-matlab-start-guide-ja.pdf)
-- エディター VS Code を[インストール](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)しておいてください。
-- R言語とRStudioを[インストール](https://www.crepe.e.u-tokyo.ac.jp/research/research20210624/%EF%BC%88%E5%8F%82%E8%80%83%E8%B3%87%E6%96%993%EF%BC%89RStudio%E3%81%AE%E5%88%A9%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89.pdf)しておいて下さい。
+- PC環境の準備をしますので、各自ノートPCを持参してください。
+    - matlab はすでに月浦先生の回でインストールされていると思います。
+        - [情報環境機構のHP](https://www.iimc.kyoto-u.ac.jp/ja/services/ismc/license/how-to-use/matlab)を参照してください。[インストールガイド](https://www.iimc.kyoto-u.ac.jp/sites/default/files/2025-02/ku-matlab-start-guide-ja.pdf)
+    - エディター VS Code を[インストール](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+    - R言語とRStudioを[インストール](https://www.crepe.e.u-tokyo.ac.jp/research/research20210624/%EF%BC%88%E5%8F%82%E8%80%83%E8%B3%87%E6%96%993%EF%BC%89RStudio%E3%81%AE%E5%88%A9%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89.pdf)
