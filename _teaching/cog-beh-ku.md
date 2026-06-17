@@ -40,7 +40,8 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 - お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
   - line 57-73, 127-142
   - line 153, How to shuffle
-
+- 解答例 [練習A](https://www.dropbox.com/s/lbbmbwumkqf56he/ex_a.m?dl=0)
+- 
 ## 第1回 6/10（水)
 - イントロ
 - PC環境の準備をしますので、各自ノートPCを持参してください。
