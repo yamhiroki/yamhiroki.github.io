@@ -34,6 +34,13 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第2回 6/17（水)
+- MATLAB基礎 レッスン1, 2, 3
+  - キーワード 変数、行列、インデックス、サイズ、コロンオペレータ
+- お手本研究ソースコード解読: artmuse_nBack_sampleCode.m
+  - line 57-73, 127-142
+  - line 153, How to shuffle
+
 ## 第1回 6/10（水)
 - イントロ
 - PC環境の準備をしますので、各自ノートPCを持参してください。
