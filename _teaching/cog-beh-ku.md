@@ -42,6 +42,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - スクリプト, 条件, ループ, エラー検出
   - 課題　教科書　練習問題E, Fの(2), WEBフォームより提出(PDF or text)  
     - [new data set (including exercise2.mat)](https://www.dropbox.com/s/fgrn90m2e22px98/matlab_exercises.zip?dl=0)
+    - 解答例 [練習E](https://www.dropbox.com/s/l5zyba6m95kela8/ex_e.m?dl=0), [練習F](https://www.dropbox.com/s/giqtlp76dr7459z/ex_f.m?dl=0), [標準誤差の関数](https://www.dropbox.com/s/v92j32hk78y3wjj/std_error.m?dl=0)
 
 ## 第3回 7/1（水)
 - MATLAB基礎3 レッスン4, 5, 6, 7  　　
