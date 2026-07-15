@@ -36,8 +36,10 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
 
 ## 第5回 7/15（水)
 - MATLABの基礎5 レッスン12, 14  
-  - データ構造: セル配列, 構造体配列  
-  - データ入力: fopen(), fgets(), textscan(), csv file
+  - データ構造: セル配列, 構造体配列, テーブル  
+  - データ入出力: 
+    - mat file, load, save
+    - csv file, readmatrix(), writematrix(), readtable(), writetable() 
 - お手本研究ソースコード解読 artmuse_nBack_analysisCode.m
   - 実験結果データ入力部 [line 26 - 32.](https://www.dropbox.com/s/yetkbx6j3q75pdl/Otehon_DataInput.png?dl=0)
   - 結果ファイル例 [csv](https://www.dropbox.com/s/y3kv3jjpgmbdg3w/HY_L_indexfinger_hf202207s11n01_20220712T205120.csv?dl=0)
