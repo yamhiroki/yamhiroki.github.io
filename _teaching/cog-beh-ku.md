@@ -43,6 +43,9 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - read_csv(), write_csv(), ggplot() etc.
   - [参考図書](https://amzn.asia/d/04XeTna8)   
     [English version, free](https://r4ds.hadley.nz/)
+- 実習したR言語関連の資料
+  - [資料1式](https://www.dropbox.com/scl/fi/7m9tbbkiayskivjmbjdgx/materials_2nd.zip?rlkey=ln1dq302c4w0ga6wk4aajq8rq&dl=0)
+  - [Rマークダウンスクリプト](https://www.dropbox.com/scl/fi/ohzosw4x951mv83gg00hy/lec_2nd.Rmd?rlkey=a9m8izfywbarv5b55h4l8m70p&st=2mimh2mf&dl=0)
 
 ## 第5回 7/15（水)
 - MATLABの基礎5 レッスン12, 14  
