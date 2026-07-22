@@ -34,6 +34,16 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
  - [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/)
     - [course book](https://psych252.github.io/psych252book/)
 
+## 第6回 7/22（水)
+- 練習問題H [データ: ex2.csv](https://www.dropbox.com/s/ahx1tzyysa04mt2/ex2.csv?dl=0)
+  - 解答例　[練習H matlab script](https://www.dropbox.com/s/dx8mdk10v931mf8/ExH.m?dl=0)
+- R言語による探索的データ解析　入門 
+  - [練習HのRスクリプト版](https://www.dropbox.com/s/42dd8ohqss3j48j/ExH.R?dl=0)  
+  - tidy data, tidyverse
+  - read_csv(), write_csv(), ggplot() etc.
+  - [参考図書](https://amzn.asia/d/04XeTna8)   
+    [English version, free](https://r4ds.hadley.nz/)
+
 ## 第5回 7/15（水)
 - MATLABの基礎5 レッスン12, 14  
   - データ構造: セル配列, 構造体配列, テーブル  
@@ -46,6 +56,7 @@ URL [https://yamhiroki.github.io/teaching/cog-beh-ku](https://yamhiroki.github.i
   - [整然データ(tidy data)](https://www.jstage.jst.go.jp/article/jkg/67/9/67_448/_pdf) 
 - 課題　
   - 教科書　練習問題G 　WEBフォームより提出(PDF or text) 
+  - 解答例 [練習G](https://www.dropbox.com/s/gecd46qgbbqdfpo/ex_g.m?dl=0)
   
 ## 第4回 7/8（水)
 - 前回の課題講評
